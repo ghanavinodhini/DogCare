@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/DogCare/static/css/main.43bfd9c1.chunk.css",
-    "main.js": "/DogCare/static/js/main.c0aa00e1.chunk.js",
-    "main.js.map": "/DogCare/static/js/main.c0aa00e1.chunk.js.map",
+    "main.js": "/DogCare/static/js/main.69469fea.chunk.js",
+    "main.js.map": "/DogCare/static/js/main.69469fea.chunk.js.map",
     "runtime-main.js": "/DogCare/static/js/runtime-main.33a0498c.js",
     "runtime-main.js.map": "/DogCare/static/js/runtime-main.33a0498c.js.map",
-    "static/js/2.fe4d629e.chunk.js": "/DogCare/static/js/2.fe4d629e.chunk.js",
-    "static/js/2.fe4d629e.chunk.js.map": "/DogCare/static/js/2.fe4d629e.chunk.js.map",
+    "static/js/2.8df70632.chunk.js": "/DogCare/static/js/2.8df70632.chunk.js",
+    "static/js/2.8df70632.chunk.js.map": "/DogCare/static/js/2.8df70632.chunk.js.map",
     "static/js/3.8b104feb.chunk.js": "/DogCare/static/js/3.8b104feb.chunk.js",
     "static/js/3.8b104feb.chunk.js.map": "/DogCare/static/js/3.8b104feb.chunk.js.map",
     "index.html": "/DogCare/index.html",
     "static/css/main.43bfd9c1.chunk.css.map": "/DogCare/static/css/main.43bfd9c1.chunk.css.map",
-    "static/js/2.fe4d629e.chunk.js.LICENSE.txt": "/DogCare/static/js/2.fe4d629e.chunk.js.LICENSE.txt",
+    "static/js/2.8df70632.chunk.js.LICENSE.txt": "/DogCare/static/js/2.8df70632.chunk.js.LICENSE.txt",
     "static/media/dog2.79d611fd.png": "/DogCare/static/media/dog2.79d611fd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.33a0498c.js",
-    "static/js/2.fe4d629e.chunk.js",
+    "static/js/2.8df70632.chunk.js",
     "static/css/main.43bfd9c1.chunk.css",
-    "static/js/main.c0aa00e1.chunk.js"
+    "static/js/main.69469fea.chunk.js"
   ]
 }
